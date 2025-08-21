@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2 ; platform_system!="Windows"  # optional
+numpy>=1.24
+tqdm>=4.66
+pyyaml>=6.0
+rich>=13.7
